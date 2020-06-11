@@ -12,7 +12,7 @@
 
 [![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Ecoleta&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fosvaldokalvaitir%2Fnodejs-ecoleta%2Fmaster%2FInsomnia.json)
 
-Aplicação Ecoleta usando Node.js, Express, knex.js, CORS e SQLite.
+Aplicação Ecoleta usando Node.js, Express, knex.js, TypeScript, CORS e SQLite.
 
 ## Índice
 
@@ -44,7 +44,7 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 ### Execução do Projeto
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga `Execução de Projeto para Desenvolvimento` ou `Execução de Projeto para Produção`.
+Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga `Execução de Projeto para Desenvolvimento`.
 
 ## Utilizados no Projeto
 
