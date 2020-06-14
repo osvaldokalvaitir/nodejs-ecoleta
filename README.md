@@ -12,7 +12,7 @@
 
 [![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Ecoleta&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fosvaldokalvaitir%2Fnodejs-ecoleta%2Fmaster%2FInsomnia.json)
 
-Aplicação Ecoleta usando Node.js, Express, knex.js, TypeScript, CORS e SQLite.
+Aplicação Ecoleta usando Node.js, Express, knex.js, TypeScript, Multer, celebrate, CORS e SQLite.
 
 ## Índice
 
@@ -54,11 +54,19 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 - [@types/express](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/@types-express.md)
 
+- [@types/hapi__joi](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/@types-hapi__joi.md)
+
+- [@types/multer](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/@types-multer.md)
+
+- [celebrate](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/celebrate.md)
+
 - [CORS](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/cors.md)
 
 - [Express](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/express.md)
 
 - [knex.js](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/knex.md)
+
+- [Multer](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/multer.md)
 
 - [sqlite3](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/sqlite3.md)
 
